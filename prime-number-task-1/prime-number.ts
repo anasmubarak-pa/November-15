@@ -32,7 +32,7 @@ function testOuput(recieved:number,expected:number)
 }
 
 // console.log(findPrime(7))
-console.log(findPrime(1001))
+console.log(findPrime(10001))
 testOuput(findPrime(1),2)
 testOuput(findPrime(2),3)
 testOuput(findPrime(3),5)
